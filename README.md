@@ -1,2 +1,2 @@
 # natours_sass_work
- - project for sass learning
+ - project for learning sass 
